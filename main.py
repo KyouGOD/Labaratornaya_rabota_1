@@ -1,3 +1,3 @@
 from mlsnparser import *
 
-parser('https://www.avito.ru/')
+parser('https://omsk.mlsn.ru/arenda-nedvizhimost/')
